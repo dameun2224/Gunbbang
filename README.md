@@ -1,4 +1,4 @@
-# gunbbang
+# Gunbbang
 
 건빵!
 
